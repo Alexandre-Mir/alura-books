@@ -1,6 +1,9 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodape.css");
 
 :root {
   --azul: #002F52;
@@ -8,8 +11,12 @@
   --branco: #FFFFFF;
   --cor-de-fundo:#EBECEE;
   --laranja: #EB9800;
+  --preto: #000000;
+  --cinza: #474646;
+  --cinza-claro: #858585;
 
   --fonte-principal: 'Poppins', sans-serif;
+  --fonte-secundaria: 'Josefin Sans', sans-serif;
 }
 
 body {
